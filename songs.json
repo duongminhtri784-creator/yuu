@@ -171,7 +171,7 @@
     "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
     "link_video_nen": "",
     "link_lyric": "",
-    "thoi_diem_diep_khuc": "",
+    "thoi_diem_diep_khuc": "35",
     "Ngày PH": "",
     "Lang": "vi",
     "tac_gia": [
@@ -191,7 +191,7 @@
     "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
     "link_video_nen": "",
     "link_lyric": "",
-    "thoi_diem_diep_khuc": "",
+    "thoi_diem_diep_khuc": "25",
     "Ngày PH": "",
     "Lang": "vi",
     "tac_gia": [
@@ -211,7 +211,7 @@
     "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
     "link_video_nen": "",
     "link_lyric": "",
-    "thoi_diem_diep_khuc": "",
+    "thoi_diem_diep_khuc": "51",
     "Ngày PH": "",
     "Lang": "vi",
     "tac_gia": [
@@ -231,7 +231,7 @@
     "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
     "link_video_nen": "",
     "link_lyric": "",
-    "thoi_diem_diep_khuc": "",
+    "thoi_diem_diep_khuc": "83",
     "Ngày PH": "",
     "Lang": "vi",
     "tac_gia": [
@@ -251,7 +251,7 @@
     "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
     "link_video_nen": "",
     "link_lyric": "",
-    "thoi_diem_diep_khuc": "",
+    "thoi_diem_diep_khuc": "67",
     "Ngày PH": "",
     "Lang": "vi",
     "tac_gia": [
@@ -980,7 +980,7 @@
     "tac_gia_4": "",
     "the_loai": "Jpop",
     "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/STAY%20ALIVE_spotdown.org.mp3",
-    "link_anh": "https://static.wikia.nocookie.net/rezero/images/2/2d/Stay_Alive_Cover.png/revision/latest/scale-to-width-down/1200?cb=20251102215653",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e027147a61e5b3f42124c644292",
     "link_video_nen": "",
     "link_lyric": "",
     "thoi_diem_diep_khuc": "",
@@ -1144,6 +1144,140 @@
     "tac_gia": [
       "Grey D"
     ]
+  },
+  {
+    "id": "59",
+    "ten_tac_pham": "逃",
+    "tac_gia_1": "Chilichill",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/%E9%80%83.mp3",
+    "link_anh": "https://lineimg.omusic.com.tw/img/album/5286409.jpg?v=20240603190752",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "54",
+    "Ngày PH": "",
+    "Lang": "cn",
+    "tac_gia": [
+      "Chilichill"
+    ]
+  },
+  {
+    "id": "60",
+    "ten_tac_pham": "我的悲伤是水做的（作者版)",
+    "tac_gia_1": "Chilichill",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/commit/a2f8dd31f18922df405ae8a48319dc94bb68a4cb#diff-5bdc76d8105f9b5f0406ea1ac19e9b6edab00b4492f0a7d9e69c7b02c4911f7e",
+    "link_anh": "https://lineimg.omusic.com.tw/img/album/5286409.jpg?v=20240603190752",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "58",
+    "Ngày PH": "",
+    "Lang": "cn",
+    "tac_gia": [
+      "Chilichill"
+    ]
+  },
+  {
+    "id": "61",
+    "ten_tac_pham": "Propose",
+    "tac_gia_1": "Natori",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/natori%20-%20Propose.mp3",
+    "link_anh": "https://i1.sndcdn.com/artworks-KUc191SOYMwBWwEw-xVxEJw-t500x500.png",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "30",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Natori"
+    ]
+  },
+  {
+    "id": "62",
+    "ten_tac_pham": "Để ý",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20%C4%90E%CC%82%CC%89%20Y%CC%81%20-%20OFFICIAL%20AUDIO.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/4/f/4/d/4f4d774297a0cb1cd581342c267e260c.jpg",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/e2/refs/heads/main/WREN%20EVANS%20-%20%C4%90E%CC%82%CC%89%20Y%CC%81%20-%20OFFICIAL%20AUDIO%20(Tie%CC%82%CC%81ng%20Vie%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "38",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "63",
+    "ten_tac_pham": "YEU",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/YEU%20(Feat.%20Wren%20Evans,%20itsnk)%20-%20TINH%20HA%CC%80%20SAY%20HI.mp3",
+    "link_anh": "https://i1.sndcdn.com/artworks-fMaXYJ4hBgZRDrse-FbZyOA-t1080x1080.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "64",
+    "ten_tac_pham": "Chờ chút",
+    "tac_gia_1": "CongB",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20Ch%E1%BB%9D%20Trong%20Tr%C4%83ng%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiigkd-DVEm4GanJ8lb04Y-DfnBM9vTEWOqht-FYhfFTDFlqQkwBvvUw&s=10",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "46",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "CongB"
+    ]
+  },
+  {
+    "id": "65",
+    "ten_tac_pham": "辞职信",
+    "tac_gia_1": "Chilichill",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/%E8%BE%9E%E8%81%8C%E4%BF%A1.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2739833fc165196c44d7136ef50",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "53",
+    "Ngày PH": "",
+    "Lang": "cn",
+    "tac_gia": [
+      "Chilichill"
+    ]
   }
 ]
-
